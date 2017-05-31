@@ -3,17 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
+
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./js/bootstrap.min.js">
+
     <link rel="stylesheet" href="./css/css.css">
 </head>
 <body>
-    <div class="contenedor">
-        <ul>
-            <li class="li-menu">Inicio</li>
-            <li class="li-menu">Empresa</li>
-            <li class="li-menu">Tienda</li>
-            <li class="li-menu">Noticias</li>
-            <li class="li-menu">Contacto</li>
-        </ul>
-    </div>
+    <header>
+        <nav class="navbar-header"></nav>
+
+    </header>
 </body>
 </html>
