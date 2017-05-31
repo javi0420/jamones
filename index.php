@@ -5,10 +5,14 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="page-header">
-        <h1>Jamones</h1>
-        <br>
-        <h2>jamones francisco lindo</h2>
+    <div class="contenedor">
+        <ul>
+            <li>Inicio</li>
+            <li>Empresa</li>
+            <li>Tienda</li>
+            <li>Noticias</li>
+            <li>Contactar</li>
+        </ul>
     </div>
 </body>
 </html>
