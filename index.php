@@ -11,7 +11,9 @@
 </head>
 <body>
     <header>
-        <nav class="navbar-header"></nav>
+        <nav class="navbar-header">
+            <span>Inicio</span><span>Tienda</span><span>Empresa</span><span>Contacto</span>
+        </nav>
 
     </header>
 </body>
